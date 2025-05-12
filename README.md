@@ -1,4 +1,4 @@
-# E-Book-10-11: Internet of Things (IoT) Programming using Arduino and Python (Indonesian version)
+# E-Book-10-11: Internet of Things (IoT) Programming using Arduino and Python Volume 1,2 (Indonesian version)
 
 <p align="center">
   <img src="https://github.com/bsrahmat/ebook-10-11/blob/main/cover_IoT_Jilid1.png" alt="" class="img-responsive" width="700">
